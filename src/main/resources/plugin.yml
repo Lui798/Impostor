@@ -1,0 +1,6 @@
+name: Impostor
+version: 1.0-SNAPSHOT
+author: NovaMC
+main: xyz.novaserver.impostor.Plugin
+api-version: 1.12
+website: https://github.com/NovaMC
